@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\op3d_active\dirent-1.23.2\msvc\CMakeFiles\9e76cf856a5b1aa5af5ba8aa9a3a875e\check.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Development\op3d_active\dirent-1.23.2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Development\op3d_active\dirent-1.23.2\msvc\CMakeFiles\check" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{560E9514-5CF2-3411-B53A-B3C0A6B2637A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

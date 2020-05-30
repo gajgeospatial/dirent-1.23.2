@@ -1,0 +1,1 @@
+This project should be installed as DIRENT_DIR with ProjectTool.
